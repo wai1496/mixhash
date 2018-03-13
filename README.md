@@ -6,3 +6,5 @@
 2. cd mixhash
 
 3. sudo python setup.py install
+
+4. cd
